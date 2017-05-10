@@ -11,6 +11,7 @@
 		21ECFB2C1EC2E62200226647 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21ECFB2B1EC2E62200226647 /* ViewController.swift */; };
 		21ECFB2E1EC2E62200226647 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21ECFB2D1EC2E62200226647 /* Assets.xcassets */; };
 		21ECFB311EC2E62200226647 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21ECFB2F1EC2E62200226647 /* Main.storyboard */; };
+		A9356B581EC2EFE90090FED6 /* Dog.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9356B571EC2EFE90090FED6 /* Dog.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		21ECFB2D1EC2E62200226647 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21ECFB301EC2E62200226647 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		21ECFB321EC2E62200226647 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9356B571EC2EFE90090FED6 /* Dog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dog.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				21ECFB291EC2E62200226647 /* AppDelegate.swift */,
 				21ECFB2B1EC2E62200226647 /* ViewController.swift */,
+				A9356B571EC2EFE90090FED6 /* Dog.swift */,
 				21ECFB2D1EC2E62200226647 /* Assets.xcassets */,
 				21ECFB2F1EC2E62200226647 /* Main.storyboard */,
 				21ECFB321EC2E62200226647 /* Info.plist */,
@@ -134,6 +137,7 @@
 			files = (
 				21ECFB2C1EC2E62200226647 /* ViewController.swift in Sources */,
 				21ECFB2A1EC2E62200226647 /* AppDelegate.swift in Sources */,
+				A9356B581EC2EFE90090FED6 /* Dog.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +292,7 @@
 				21ECFB371EC2E62200226647 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
